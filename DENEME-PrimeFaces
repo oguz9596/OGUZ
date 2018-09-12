@@ -1,1 +1,10 @@
-<h:commandButton type="button" value="To Thy!" onclick="alert('OGUZ SARI!');"/> 
+<html>
+<head>
+<title>Hosgeldiniz</title>
+</head>
+<body>
+<b>Giris Sayfasina Hosgeldiniz!</b>
+<p>LOGIN</p>
+<input type="button" name="xxx" value="Turkish Airlines!" onclick="alert(' OGUZ SARI!');" />
+</body>
+</html>
