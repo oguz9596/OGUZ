@@ -1,0 +1,1 @@
+<h:commandButton type="button" value="To Thy!" onclick="alert('OGUZ SARI!');"/> 
